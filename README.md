@@ -3,9 +3,9 @@ This is a python code to model the solar irradiation
 
 #  python_solar_irradiation_model
 
-<img src="./static/RStudio-Ball.png" alt="AeroPython" align="center" style="width: 300px;" width="20%" height="20%"/>
+<img src="./static/sun.jpeg" alt="AeroPython" align="center" style="width: 300px;" width="20%" height="20%"/>
 
-## [Jose Angel Velasco](http://es.linkedin.com/in/joseangelvelascorodriguez) ([@inginjose](https://twitter.com/inginjose)) 
+## [Jose Angel Velasco](http://es.linkedin.com/in/joseangelvelascorodriguez) ([Researchgate](https://www.researchgate.net/profile/Jose_Velasco11)) 
 
 __python_solar_irradiation_model__
 
