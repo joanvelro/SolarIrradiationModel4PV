@@ -1,6 +1,6 @@
 
 
-#  Python solar irradiation model
+#  Solar irradiation model for PV production
 
 <img src="./sun.jpeg" alt="sun" align="center" style="width: 300px;" width="20%" height="20%"/>
 
